@@ -32,4 +32,5 @@ This is the final step of the homework!
 1. Do ```git add filename.ipynb``` and ```git add filename.csv``` where both the filenames represent your ipynb and CSV files, respectively. This will add them to the git server.
 2. Do ```git commit -m "Type a short message, like 'Pushing changes for Homework 1' here."```. This will provide a message onto the repository along with your filenames.
 3. And finally, do ```git push```. This SHOULD upload the files onto the github repository. I know git likes to be finnicky sometimes, so if you are having issues, let Sam or I know!
+
 TIP: You can use ```git status``` to check which of your files have been added and which haven't.
