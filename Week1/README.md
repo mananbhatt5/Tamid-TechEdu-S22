@@ -10,6 +10,7 @@ First, we need to make sure your repository is setup. I have provided the instru
 3. Run ```cd Tamid-TechEdu-S22```, and this will put you into the new folder.
 4. Run ```cd Week1``` and you will be in the folder for this week.
 5. Run ```code .``` and VSCode will open up with this folder. You should see the Week 1 Code.ipynb file containing all the examples from class in there, as well as the README.md file you are reading right now. 
+
 If VSCode is not installed on your machine, follow the instructions [here](https://code.visualstudio.com/download) and download accordingly.
 
 ### Step 2: The Homework Itself
