@@ -3,7 +3,7 @@
 Once again, congratulations on making it into Tamid Tech! Upon your acceptance, as well as pulling this repository, you are now a member of the Spring 2022 Tamid Tech Edu class! This is your first homework assignment. There will not be any real work due next Wednesday, but this is just so I know your IDE is set up.
 
 ### Step 1: Setting Up the Repo with Terminal ###
-First, we need to make sure your repository is setup. I have provided the instructions on the slides, but I will provide them here as well.
+First, we need to make sure your repository is setup.
 
 1. Go to your designated terminal, and cd to the folder you want your repository to be in. (```cd src``` is recommended. If src is not a directory in your User folder, you can run ```mkdir src``` and then cd to it.)
 2. Type in ```git clone https://github.com/mananbhatt5/Tamid-TechEdu-S22.git```. This will create a new folder containing all of the class materials.
