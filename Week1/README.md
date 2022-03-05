@@ -1,5 +1,5 @@
 # Homework 1 #
-##### *Due March 9th, 2022* #####
+##### *Due Midnight on March 9th, 2022* #####
 Once again, congratulations on making it into Tamid Tech! Upon your acceptance, as well as pulling this repository, you are now a member of the Spring 2022 Tamid Tech Edu class! This is your first homework assignment. There will not be any real work due next Wednesday, but this is just so I know your IDE is set up.
 
 ### Step 0: Prerequisite ###
