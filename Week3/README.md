@@ -22,7 +22,7 @@ Now, go on [Firebase](https://firebase.google.com/) and sign in with your gmail 
 
 Add whatever data you want, preferrably with Name, Value, and whatever other categories you would like.
 
-### Step 2: Integrating Your DB With Code (Data Processing) ###
+### Step 2: Integrating Your DB To Our Code (Data Processing) ###
 With your database done, export it as a JSON file and move the JSON file to the same folder you are coding in. You should see it in the left tab of VSCode afterwards.
 Now here is what you have to do.
 1. Import the JSON File into your program 
