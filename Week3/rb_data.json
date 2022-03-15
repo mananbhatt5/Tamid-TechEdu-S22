@@ -1,0 +1,51 @@
+{
+  "Running Backs" : [ {
+    "Name" : "Saquon Barkley",
+    "Rookie Rec TDs" : 4,
+    "Rookie Rush TDs" : 11,
+    "Rookie Rush Yards" : 1307,
+    "Team" : "New York Giants"
+  }, {
+    "Name" : "Ezekiel Elliot",
+    "Rookie Rec TDs" : 1,
+    "Rookie Rush TDs" : 15,
+    "Rookie Rush Yards" : 1631,
+    "Team" : "Dallas Cowboys"
+  }, {
+    "Name" : "Christian McCaffrey",
+    "Rookie Rec TDs" : 5,
+    "Rookie Rush TDs" : 2,
+    "Rookie Rush Yards" : 435,
+    "Team" : "Carolina Panthers"
+  }, {
+    "Name" : "Derrick Henry",
+    "Rookie Rec TDs" : 0,
+    "Rookie Rush TDs" : 5,
+    "Rookie Rush Yards" : 490,
+    "Team" : "Tennessee Titans"
+  }, {
+    "Name" : "Miles Sanders",
+    "Rookie Rec TDs" : 3,
+    "Rookie Rush TDs" : 3,
+    "Rookie Rush Yards" : 818,
+    "Team" : "Philadelphia Eagles"
+  }, {
+    "Name" : "Antonio Gibson",
+    "Rookie Rec TDs" : 0,
+    "Rookie Rush TDs" : 11,
+    "Rookie Rush Yards" : 795,
+    "Team" : "Washington Football Team"
+  }, {
+    "Name" : "Dalvin Cook",
+    "Rookie Rec TDs" : 0,
+    "Rookie Rush TDs" : 2,
+    "Rookie Rush Yards" : 354,
+    "Team" : "Minnesota Vikings"
+  }, {
+    "Name" : "Alvin Kamara",
+    "Rookie Rec TDs" : 5,
+    "Rookie Rush TDs" : 8,
+    "Rookie Rush Yards" : 728,
+    "Team" : "New Orleans Saints"
+  } ]
+}
