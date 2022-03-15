@@ -1,9 +1,12 @@
 # Homework 1 #
-##### *Due March 9th, 2022* #####
+##### *Due Midnight on March 9th, 2022* #####
 Once again, congratulations on making it into Tamid Tech! Upon your acceptance, as well as pulling this repository, you are now a member of the Spring 2022 Tamid Tech Edu class! This is your first homework assignment. There will not be any real work due next Wednesday, but this is just so I know your IDE is set up.
 
+### Step 0: Prerequisite ###
+**Be sure to give me your GitHub username so I can add you as a collaborator!! You won't be able to push if you don't!**
+
 ### Step 1: Setting Up the Repo with Terminal ###
-First, we need to make sure your repository is setup. I have provided the instructions on the slides, but I will provide them here as well.
+First, we need to make sure your repository is setup.
 
 1. Go to your designated terminal, and cd to the folder you want your repository to be in. (```cd src``` is recommended. If src is not a directory in your User folder, you can run ```mkdir src``` and then cd to it.)
 2. Type in ```git clone https://github.com/mananbhatt5/Tamid-TechEdu-S22.git```. This will create a new folder containing all of the class materials.
@@ -32,3 +35,5 @@ This is the final step of the homework!
 1. Do ```git add filename.ipynb``` and ```git add filename.csv``` where both the filenames represent your ipynb and CSV files, respectively. This will add them to the git server.
 2. Do ```git commit -m "Type a short message, like 'Pushing changes for Homework 1' here."```. This will provide a message onto the repository along with your filenames.
 3. And finally, do ```git push```. This SHOULD upload the files onto the github repository. I know git likes to be finnicky sometimes, so if you are having issues, let Sam or I know!
+
+TIP: You can use ```git status``` to check which of your files have been added and which haven't.
