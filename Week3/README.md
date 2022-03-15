@@ -1,6 +1,6 @@
 # Homework 2 #
 ##### *Due March 30th, 2022* #####
-After painstakingly going through installation, setup, and your git intro, you have finally set your IDE up. It only gets easier from here.
+After painstakingly going through installation, setup, and your git intro, you have finally set your IDE up. It only gets easier from here, trust me.
 For your first real Data Science assignment, you will be exploring the first two steps of the Data Science pipeline, Collection and Processing. You will have two weeks to do this, as I am giving you the break to relax.
 
 ### Step 0: Setup ###
