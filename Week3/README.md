@@ -24,8 +24,12 @@ Add whatever data you want, preferrably with Name, Value, and whatever other cat
 
 ### Step 2: Integrating Your DB With Code ###
 With your database done, export it as a JSON file and move the JSON file to the same folder you are coding in. You should see it in the left tab of VSCode afterwards.
-
-**Import the JSON File into your program, convert it to CSV, then make a DataFrame out of it. Print the dataframe, get the summary statistics, and access a column.**
+Now here is what you have to do.
+1. Import the JSON File into your program 
+2. Convert it to CSV, then make a DataFrame out of it. 
+3. Print the dataframe.
+4. Get the summary statistics.
+5. Access a column.
 This code should not be bad at all, you can get it straight from the slides and the Week 3 Code file.
 
 ### Step 3: Submission ###
