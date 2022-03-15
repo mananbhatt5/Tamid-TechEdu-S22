@@ -34,7 +34,7 @@ This code should not be bad at all, you can get it straight from the slides and 
 
 ### Step 3: Submission ###
 I will be adding an extra step to submission to ensure that it doesn't fail on your end.
-1. Run ```git pull``` to ensure your git is up to date. MAKE SURE YOUR FILES ARE SAVED.
+1. IF AND ONLY IF THE SUBSEQUENT STEPS DO NOT WORK, run ```git pull``` to ensure your git is up to date. MAKE SURE YOUR FILES ARE SAVED.
 2. Run ```git add name-week3.ipynb``` (same naming convention as usual).
 3. Run ```git add filename.json``` so I can see your database contents.
 4. Run ```git commit -m "Enter message here like last time"``` to commit your changes.
