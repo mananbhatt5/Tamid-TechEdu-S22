@@ -11,7 +11,7 @@ To begin your setup, run these following commands in your Terminal.
 4. ```git pull``` to update the repository with the Week 3 folder and the Week 3 code.
 5. ```cd Week3``` to be in the Week 3 folder.
 
-### Step 1: Create Your Database ###
+### Step 1: Create Your Database (Data Collection) ###
 Make a database, and it can contain WHATEVER data you want!! Make sure it has at least 5 elements (5 index children indexed 0-4 with at least 2 of its own child nodes in there).
 Now, go on [Firebase](https://firebase.google.com/) and sign in with your gmail account (personal preferred).
 1. Click "Get Started".
@@ -22,7 +22,7 @@ Now, go on [Firebase](https://firebase.google.com/) and sign in with your gmail 
 
 Add whatever data you want, preferrably with Name, Value, and whatever other categories you would like.
 
-### Step 2: Integrating Your DB With Code ###
+### Step 2: Integrating Your DB With Code (Data Processing) ###
 With your database done, export it as a JSON file and move the JSON file to the same folder you are coding in. You should see it in the left tab of VSCode afterwards.
 Now here is what you have to do.
 1. Import the JSON File into your program 
