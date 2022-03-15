@@ -16,7 +16,7 @@ Make a database, and it can contain WHATEVER data you want!! Make sure it has at
 Now, go on [Firebase](https://firebase.google.com/) and sign in with your gmail account (personal preferred).
 1. Click "Get Started".
 2. Go to the **Realtime Database** tab.
-3. Click the plus next to the dbname-default-rtdb cell to make a child node, which would be the title of your parent node. DBname will be the name of 
+3. Click the plus next to the dbname-default-rtdb cell to make a child node, which would be the title of your parent node. DBname will be the name of your Database, which you initialize when making the Project.
 4. Use the plus on the parent node to make your index children.
 5. Use the plus on your index nodes to add values to the Database.
 
