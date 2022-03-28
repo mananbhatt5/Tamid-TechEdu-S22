@@ -1,0 +1,27 @@
+{
+    "Division Winners" : [ {
+    "Division Winners": "Atlanta Braves",
+    "Wins": 88,
+    "Losses": 73
+    },{
+    "NL Central": "Milwaukee Brewers",
+    "Wins": 95,
+    "Losses": 67
+    },{
+    "NL West": "San Francisco Giants",
+    "Wins": 107,
+    "Losses": 55
+    },{
+    "AL East": "Tampa Bay Rays",
+    "Wins": 100,
+    "Losses": 62
+    },{
+    "AL Central": "Chicago White Sox",
+    "Wins": 93,
+    "Losses": 69
+    },{
+    "AL West": "Houston Astros",
+    "Wins": 95,
+    "Losses": 67 
+    } ]
+}
