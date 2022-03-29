@@ -1,0 +1,54 @@
+{
+  "\"Zraim\"": [
+    "Berakhot"
+  ],
+  "Kodashim": [
+    "Zevachim",
+    "Menachot",
+    "Chullin",
+    "Becharot",
+    "Arachin",
+    "Temura",
+    "Keritot",
+    "Meila",
+    "Tamid",
+    "Middot",
+    "Kinnim"
+  ],
+  "Moed": [
+    "shabbat",
+    "Eruvin",
+    "Pesachim",
+    "Shekalim",
+    "Rosh Hashana",
+    "Yoma",
+    "Sukkah",
+    "Beitzah",
+    "Taanit",
+    "Megillah",
+    "Moed Kattan",
+    "Chagigah"
+  ],
+  "Nashim": [
+    "Yevamot",
+    "Ketubot",
+    "Nedarim",
+    "Nazir",
+    "Sotah",
+    "Gittin",
+    "Kiddushin"
+  ],
+  "Nezikin": [
+    "Bava kama",
+    "Bava Basra",
+    "Bava Metzia",
+    "Sanhedrin",
+    "Makkot",
+    "Shavouat",
+    "Avoda Zera",
+    "Horayor"
+  ],
+  "Tahorot": {
+    "9": "Niddah"
+  }
+}
