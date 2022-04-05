@@ -1,0 +1,29 @@
+{
+  "One Direction Albums" : {
+    "Four" : {
+      "Release Year" : 2014,
+      "Songs" : 17,
+      "US Sales" : "1,064,000["
+    },
+    "Made in the AM" : {
+      "Release Year" : 2015,
+      "Songs" : 12,
+      "US Sales" : "853,000"
+    },
+    "Midnight Memories" : {
+      "Release Year" : 2013,
+      "Songs" : 25,
+      "US Sales" : "1,552,000"
+    },
+    "Take Me Home" : {
+      "Release Year" : 2012,
+      "Songs" : 9,
+      "US Sales" : "2,043,000["
+    },
+    "Up All Night" : {
+      "Release Year" : 2011,
+      "Songs" : 18,
+      "US Sales" : "2,095,000"
+    }
+  }
+}
