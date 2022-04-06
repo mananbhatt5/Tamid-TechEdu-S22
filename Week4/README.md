@@ -1,5 +1,6 @@
 # Homework 3 #
 ***Due April 6th at Midnight***
+
 So now, you have set up your IDE and collected your data. You put all your data on a live database, and imported it onto your Python program. Now you have a CSV file with your data, which must be processed on your machine. What is the next step? Now we must **learn** about what is in our dataframe. This is probably the easiest homework of the semester.
 
 ## Step 0: Setup ##
@@ -9,7 +10,7 @@ Now make a .ipynb file using the usual naming convention (name-week4.ipynb).
 
 ## Step 1: Collection ##
 We did the whole database thing already, so we will put it to rest until the final.
-1. Download a dataset off of [https://www.kaggle.com/datasets](Kaggle).
+1. Download a dataset off of [Kaggle](https://www.kaggle.com/datasets).
 2. Extract the CSV file from the downloaded zip file, and move that to your Week 4 directory.
 
 ## Step 2: Making and Analyzing the DataFrame ##
