@@ -1,5 +1,6 @@
 # Homework 3 #
 ***Due April 6th at Midnight***
+
 So now, you have set up your IDE and collected your data. You put all your data on a live database, and imported it onto your Python program. Now you have a CSV file with your data, which must be processed on your machine. What is the next step? Now we must **learn** about what is in our dataframe. This is probably the easiest homework of the semester.
 
 ## Step 0: Setup ##
