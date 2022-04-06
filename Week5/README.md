@@ -13,6 +13,8 @@ Make sure the downloaded CSV file is in the Week5 folder, then you are ready to 
 ### Clean The Data Set ###
 Now our next step is to just clean the s#@t out of this dataset! I will let you clean at your own will, but the only requirement is that you get your number of rows down to **1/4 of the original size!**
 
+At the end, add a correlation matrix to see correlations between your numerical columns!
+
 That's it! I am expecting a lot of cleaning. Save your new dataframe using ```df.to_csv('filename.csv')```
 
 ### Submitting ###
