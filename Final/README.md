@@ -22,10 +22,10 @@ This step involves cleaning and altering your dataframe to have everything you w
 Create at least 2 graphs for the visualization. One of them MUST be a scatterplot with a line of best fit. The others can be decided by doing plots with the Python Graph Gallery. Be very specific why you chose the graphs you did.
 
 ### Step 5: Data Validation ###
-Create a null and alternate hypothesis and use either an OLS or Logistic Regression. Then use the predict() function with a formula to predict certain numerical column values, and compare it to the original values by plotting them on each other. (IN PROGRESS)
+Create a null and alternate hypothesis based on your graphs in step 4 and use an OLS Regression to test the said hypotheses. From there, use your regression model to create a prediction and compare these predictions to your actual values using a residual plot. This will allow you to validate your claims from Step 4 and present your findings with credibility.
 
 ### Step 6: Presentation ###
-Now, we have the code. Present your findings during the Final Presentations on 4/24, and do so in less than 3 minutes. Please be concise with everything so everyone has time to present.
+Now, we have the code. Present your findings during the Final Presentations on 4/24, and do so in less than 3 minutes. Please be concise with everything so everyone has time to present. You do not have to go too much in depth, you just have to explain your data and the conclusions that can be drawn, as well as the process you went through to reach your conclusions.
 
 ### Final Remarks ###
 I hope you all enjoyed Tamid Tech Edu. I've had so much fun teaching you guys, and it was an honor. For those of you guys who plan on taking CMSC320, you are more than welcome to use my content as a reference. Thank you guys for being great students, and I wish you all the best of luck in your future endeavors. 
