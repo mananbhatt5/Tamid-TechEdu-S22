@@ -27,5 +27,8 @@ Create a null and alternate hypothesis based on your graphs in step 4 and use an
 ### Step 6: Presentation ###
 Now, we have the code. Present your findings during the Final Presentations on 4/24, and do so in less than 3 minutes. Please be concise with everything so everyone has time to present. You do not have to go too much in depth, you just have to explain your data and the conclusions that can be drawn, as well as the process you went through to reach your conclusions.
 
+### Step 7: Submitting ###
+Submit one per group, use the same git commands but for the naming convention, just do ```names.ipynb``` with names being your names. Let me know if there are any issues.
+
 ### Final Remarks ###
 I hope you all enjoyed Tamid Tech Edu. I've had so much fun teaching you guys, and it was an honor. For those of you guys who plan on taking CMSC320, you are more than welcome to use my content as a reference. Thank you guys for being great students, and I wish you all the best of luck in your future endeavors. 
