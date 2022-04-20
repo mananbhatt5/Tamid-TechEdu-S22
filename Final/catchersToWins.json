@@ -1,0 +1,185 @@
+{
+  " Team_Catchers_Cumulative_Stats_To_Wins" : [ {
+    " Name" : "Giants",
+    " 0BP " : 360,
+    " BA" : 271,
+    " SLG " : 446,
+    "Wins" : 107
+    
+  }, {
+    " Name" : "Reds",
+    " OBP " : 352,
+    " BA " : 260,
+    " SLG " : 400,
+    "Wins" : 83
+  }, {
+    " Name" : "Red Sox",
+    " OBP" : 319,
+    " BA " : 266,
+    " SLG" : 365,
+    "Wins" : 92
+  }, {
+    " Name" : "Royals",
+    " OBP " : 310,
+    " BA " : 264,
+    " SLG " : 496,
+    "Wins" : 74
+  }, {
+    " Name" : "Nationals",
+    " OBP " : 352,
+    " BA " : 260,
+    " SLG " : 416,
+    "Wins" : 65
+  }, {
+    " Name" : "Brewers",
+    " OBP " : 327,
+    " BA " : 244,
+    " SLG " : 421,
+    "Wins" : 95
+  }, {
+    " Name" : "Dodgers",
+    " OBP " : 343,
+    " BA " : 243,
+    " SLG " : 448,
+  "Wins" : 106
+}, {
+  " Name" : "Phillies",
+  " OBP " : 312,
+  " BA " : 236,
+  " SLG " : 383,
+  "Wins" : 82
+}, {
+    " Name" : "Diamond Backs",
+    " OBP " : 324,
+    " BA " : 236,
+    " SLG " : 410,
+    "Wins" : 52
+}, {
+    " Name" : "Rays",
+    " OBP" : 309,
+    " BA " : 234,
+    " SLG" : 494,
+      "Wins" : 100
+}, {
+    " Name" : "Cardinals",
+    " OBP " : 293,
+    " BA " : 233,
+    " SLG " : 339,
+    "Wins" : 90
+}, {
+    " Name" : "Blue Jays",
+    " OBP " : 305,
+    " BA " : 233,
+    " SLG " : 403,
+    "Wins" : 91
+  }, {
+    " Name" : "Padres",
+    " OBP " : 310,
+    " BA " : 231,
+    " SLG " : 327,
+    "Wins" : 79
+  }, {
+    " Name" : "Tigers",
+    " OBP " : 282,
+    " BA " : 226,
+    " SLG " : 451,
+    "Wins" : 77
+  }, {
+    " Name" : "Angels",
+    " OBP " : 298,
+    " BA " : 225,
+    " SLG " : 366,
+    "Wins" : 77
+  },{
+    " Name" : "Orioles",
+    " OBP " : 285,
+    " BA " : 223,
+    " SLG " : 344,
+    "" : 52
+  }, {
+    " Name" : "Rockies",
+    " OBP" : 303,
+    " BA " : 223,
+    " SLG" : 438,
+    "Wins" : 74
+  }, {
+    " Name" : "Mets",
+    " OBP " : 279,
+    " BA " : 22,
+    " SLG " : 331,
+    "Wins" : 77
+  }, {
+    " Name" : "White Sox",
+    " OBP " : 365,
+    " BA " : 220,
+    " SLG " : 434,
+    "Wins" : 93
+  }, {
+    " Name" : "Rangers",
+    " OBP " : 254,
+    " BA " : 220,
+    " SLG " : 367,
+    "Wins" : 60
+  }, {
+    " Name" : "Cubs",
+    " OBP " : 313,
+    " BA " : 217,
+    " SLG " : 388,
+    "Wins" : 71
+  }, {
+    " Name" : "Athletics",
+    " OBP " : 288,
+    " BA " : 216,
+    " SLG " : 387,
+    "Wins" : 86
+  },{
+    " Name" : "Twins",
+    " OBP " : 297,
+    " BA " : 215,
+    " SLG " : 425,
+    "Wins" : 73
+  }, {
+    " Name" : "Mariners",
+    " OBP" : 285,
+    " BA " : 214,
+    " SLG" : 370,
+    "Wins" : 90
+  }, {
+    " Name" : "Marlins",
+    " OBP " : 267,
+    " BA " : 212,
+    " SLG " : 319,
+    "Wins" : 67
+  },{
+    " Name" : "Pirates",
+    " OBP " : 297,
+    " BA " : 211,
+    " SLG " : 341,
+    "Wins" : 61
+  }, {
+    " Name" : "Yankees",
+    " OBP " : 284,
+    " BA " : 195,
+    " SLG " : 404,
+    "Wins" : 92
+  }, {
+    " Name" : "Braves",
+    " OBP " : 274,
+    " BA " : 192,
+    " SLG " : 320,
+    "Wins" : 88
+  }, {
+    " Name" : "Astros",
+    " OBP " : 293,
+    " BA " : 189,
+    " SLG " : 335,
+    "Wins" : 95
+  }, {
+    " Name" : "Indians",
+    " OBP " : 241,
+    " BA " : 183,
+    " SLG " : 329,
+    "Wins" : 80
+  }
+]
+}
