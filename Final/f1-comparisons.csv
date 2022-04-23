@@ -1,0 +1,31 @@
+Age,Current Team,Fastest Lap Times,Laps Raced,Name,Nationality,Number of Seasons,On Grid,Podiums,Racing Number,Salary,Total Points Won,Wins,World Titles
+24,Red Bull Racing,16,8304,Max Verstappen,Netherlands,8,True,61,1,"25,000,000",1582.5,21,1
+32,McLaren,16,12482,Daniel Ricciardo,Australian ,12,True,32,3,"17,000,000",1282,8,0
+22,McLaren,3,4390,Lando Norris,United Kingdom,4,True,5,4,"20,000,000",322,0,0
+34,Aston Martin Racing,38,16157,Sebastian Vettel,German,16,True,122,5,"15,000,000",3601,53,4
+26,Williams,0,2977,Latifi,Canada,3,True,0,6,"1,000,000",7,0,0
+26,AlphaTauri,3,5535,Pierre Gasly,France,6,True,3,10,"5,000,000",315,1,0
+32,Red Bull Racing,6,12776,Sergio Perez,Mexico,12,True,16,11,"8,000,000",960,2,0
+40,Alpine,23,18622,Fernando Alonso,Spain,19,True,98,14,"20,000,000",1982,32,2
+24,Ferrari,7,5061,Charles Leclerc,Monaco,5,True,16,16,"12,000,000",631,4,0
+23,Aston Martin Racing,0,6346,Lance Stroll,Canada,6,True,3,18,"10,000,000",176,0,0
+29,Haas F1 Team,2,6775,Kevin Magnussen,Denmark,7,True,1,20,"6,000,000",170,0,0
+21,AlphaTauri,0,1592,Yuki Tsunoda,Japan,2,True,0,22,"750,000",36,0,0
+26,Williams,0,2822,Alexander Albon,Thailand,3,True,2,23,"2,000,000",198,0,0
+22,Alfa Romeo,0,165,Zhou Guanyu,China,1,True,0,24,"1,000,000",1,0,0
+25,Alpine,0,5692,Esteban Ocon,France,6,True,2,31,"5,000,000",292,1,0
+37,Mercedes,53,17491,Lewis Hamilton,United Kingdom,16,True,183,44,"40,000,000",4193.5,103,7
+23,Haas F1 Team,0,1698,Mich Schumacher,Germany,2,True,0,47,"1,000,000",0,0,0
+27,Ferrari,1,8447,Carlos Sainz Jr.,Spain,8,True,8,55,"10,000,000",569.5,0,0
+24,Mercedes,1,4154,George Russel,United Kingdom,4,True,2,63,"5,000,000",56,0,0
+32,Alfa Romeo,19,11061,Valtteri Bottas,Finland,10,True,67,77,"10,000,000",1750,10,0
+42,Alfa Romeo,46,19421,Kimi Raikkonen,Finland,19,False,103,7,"10,000,000",1873,21,1
+28,Alfa Romeo,0,4259,Antonio Giovinazzi,Italy,4,False,0,99,"1,000,000",21,0,0
+22,Haas F1 Team,0,1402,Nikita Mazepin,Russia,1,False,0,9,"1,000,000",0,0,0
+25,AlphaTauri,1,6210,Daniil Kyat,Russia,6,False,3,26,"300,000",202,0,0
+33,Alpine,2,9379,Nico Hulkenberg,Germany,11,False,0,27,"4,500,000",521,0,0
+34,Haas F1 Team,1,9247,Romain Grosjean,French,10,False,10,8,"1,800,000",291,0,0
+35,Williams,1,5505,Robert Kubica,Polish,7,False,12,88,"570,000",274,1,0
+26,McLaren,0,2207,Stoffel Vandoorne,Belgium,3,False,0,2,"7,000,000",26,0,0
+28,Sauber,0,4901,Marcus Ericsson,Sweden,5,False,0,9,"500,000",18,0,0
+31,Mercedes,20,11161,Nico Rosberg,Germany,11,False,57,6,"15,000,000",1594.5,23,1
