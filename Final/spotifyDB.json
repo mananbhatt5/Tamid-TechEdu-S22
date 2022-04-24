@@ -1,0 +1,357 @@
+{
+  "Songs" : [ { 
+    "Title": "As It Was",
+    "Artist": "Harry Styles",
+    "Duration": 147,
+    "Explicit": false,
+    "Genre": "Pop, Soft Pop, Rock",
+    "Streams": "213605271"
+  }, {
+    "Title": "Bad Habits", 
+    "Artist": "Ed Sheeran",
+    "Duration": 231,
+    "Explicit": false,
+    "Genre": "Alternative Indie, Pop",
+    "Streams": "1039399457"
+  }, {
+    "Title": "Bam Bam",
+    "Artist": "Camila Cabello, Ed Sheeran",
+    "Duration": "206",
+    "Explicit": "false",
+    "Genre": "French Urban Pop, R&B, Soul, Pop",
+    "Streams": "115050175"
+  }, {
+    "Title": "Better Days",
+    "Artist": "NEIKED, Mae Muller, Polo G",
+    "Duration": "161",
+    "Explicit": "false",
+    "Genre": "Disco, Pop, Funk",
+    "Streams": "216617133"
+  }, {
+    "Title": "Bones",
+    "Artist": "Imagine Dragons",
+    "Duration": 165,
+    "Explicit": false,
+    "Genre": "Alternative, Indie",
+    "Streams": "50803142"
+  }, {
+    "Title": "Boyfriend",
+    "Artist": "Dove Cameron",
+    "Duration": 153,
+    "Explicit": true,
+    "Genre": "R&B, Soul, Pop",
+    "Streams": "144493104"
+  }, {
+    "Title": "Cold Heart",
+    "Artist": "Elton John, Dua Lipa, PNAU",
+    "Duration": 203,
+    "Explicit": false,
+    "Genre": "Disco, Pop",
+    "Streams": "795549029"
+  }, {
+    "Title": "Desesperados",
+    "Artist": "Rauw Alejandro, Chencho Corleone",
+    "Duration": 225,
+    "Explicit": true,
+    "Genre": "Latin Urbano",
+    "Streams": "279140212"
+  }, {
+    "Title": "Easy On Me",
+    "Artist": "Adele",
+    "Duration": 225,
+    "Explicit": false,
+    "Genre": "Pop, Soul",
+    "Streams": "850155014"
+  }, {
+    "Title":"Enemy",
+    "Artist": "Imagine Dragons, JID, Arcane, League of Legends",
+    "Duration": 173,
+    "Explicit": false,
+    "Genre": "Alternative Indie, Pop, Hip-Hop, Rap, R&B, Soul",
+    "Streams": "591721256"
+  }, {
+    "Title": "Envolver",
+    "Artist": "Anitta",
+    "Duration": 194,
+    "Explicit": false,
+    "Genre": "Reggaeton, Latin Urbano",
+    "Streams": "166990082"
+  }, {
+    "Title":"Fingers Crossed",
+    "Artist": "Lauren Spencer-Smith",
+    "Duration": 175,
+    "Explcit": false,
+    "Genre": "Pop",
+    "Streams": "151318265"
+  }, {
+    "Title": "First Class",
+    "Artist": "Jack Harlow",
+    "Duration": 174,
+    "Explicit": true,
+    "Genre": "Hip-Hop, Rap",
+    "Streams": "79881329"
+  }, {
+    "Title": "Ghost",
+    "Artist": "Justin Beiber",
+    "Duration": 153,
+    "Explicit": false,
+    "Genre": "Pop ",
+    "Streams": "473826288"
+  }, {
+    "Title": "Go",
+    "Artist": "Cat Burns",
+    "Duration": 215,
+    "Explicit": true,
+    "Genre": "Pop",
+    "Streams": "39962069"
+  }, {
+    "Title": "Happier Than Ever - Edit",
+    "Artist": "Billie Eilish",
+    "Duration": 151,
+    "Explicit": true,
+    "Genre": "Alternative Indie, Pop",
+    "Streams": "196297161"
+  }, {
+    "Title": "Heat Waves",
+    "Artist": "Glass Animals",
+    "Duration": 239,
+    "Explicit": false,
+    "Genre": "Alternative Indie, Contemporary R&B, Psychedelic Pop",
+    "Streams": "1493773279"
+  }, {
+    "Title": "I'm Tired",
+    "Artist": "Labrinth, Zendaya",
+    "Duration": 188,
+    "Explicit": "false",
+    "Genre": "Pop",
+    "Streams": "5550414"
+  }, {
+    "Title": "IDGAF",
+    "Artist": "BoyWithUke, blackbear",
+    "Duration": 141,
+    "Explicit": true,
+    "Genre": "Alternative Indie, Hip-Hop, Rap",
+    "Streams": "34784973"
+  },{
+    "Title": "In My Head",
+    "Artist": "Lil Tjay",
+    "Duration": 135,
+    "Explicit": true,
+    "Genre": "Hip-Hop, Rap",
+    "Streams": "33329870"
+  },{
+    "Title": "Industry Baby",
+    "Artist": "Lil Nas X, Jack Harlow",
+    "Duration": 212,
+    "Explicit": true,
+    "Genre": "Hip-Hop, Rap",
+    "Streams": "12131815490"
+  },{
+    "Title": "Infinity",
+    "Artist": "Jaymes Young",
+    "Duration": 227,
+    "Explicit": false,
+    "Genre": "R&B Soul, Alternative Indie, Pop",
+    "Streams": ""
+  },{
+    "Title": "Light Switch",
+    "Artist": "Charlie Puth",
+    "Duration": 186,
+    "Explicit": false,
+    "Genre": "Pop",
+    "": "Light Switch",
+    "Streams": "157189571"
+  },{
+    "Title": "MAMIII",
+    "Artist": "Becky G, KAROL G",
+    "Duration": 226,
+    "Explicit": false,
+    "Genre": "Pop",
+    "Streams": "157189571"
+  },{
+    "Title": "MIDDLE OF THE NIGHT",
+    "Artist": "Elley Duhe",
+    "Duration": 184,
+    "Explicit": false,
+    "Genre": "Pop",
+    "Streams": "239886380"
+  },{
+    "Title": "MONEY",
+    "Artist": "LISA",
+    "Duration": 168,
+    "Explicit": false,
+    "Genre": "Hip-Hop, K-Pop, Dance, Electronic",
+    "Streams": "436325818"
+  },{
+    "Title": "My Universe",
+    "Artist": "Coldplay, BTS",
+    "Duration": 228,
+    "Explicit": false,
+    "Genre": "Alternative Indie, Dance, Electronic",
+    "Streams": "555595940"
+  },{
+    "Title": "Nail Tech",
+    "Artist": "Jack Harlow",
+    "Duration": 206,
+    "Explicit": true,
+    "Genre": "Hip-Hop, Rap",
+    "Streams": "79881329"
+  },{
+    "Title": "Need to Know",
+    "Artist": "Doja Cat",
+    "Duration": 211,
+    "Explicit": true,
+    "Genre": "R&B Soul, Pop, Rap",
+    "Streams": "707546514"
+  },{
+    "Title": "Numb Little Bug",
+    "Artist": "Em Beihold",
+    "Duration": 169,
+    "Explicit": false,
+    "Genre": "R&B Soul, Pop",
+    "Streams": "87380253"
+  },{
+    "Title": "Oh My God",
+    "Artist": "Adele",
+    "Duration": 225,
+    "Explicit": false,
+    "Genre": "Dance, Pop",
+    "Streams": "245726379"
+  },{
+    "Title": "One Right Now",
+    "Artist": "Post Malone, The Weeknd",
+    "Duration": 194,
+    "Explicit": true,
+    "Genre": "Hip-Hop, Rap",
+    "Streams": "260728653"
+  },{
+    "Title": "Pepas",
+    "Artist": "Farruko",
+    "Duration": 287,
+    "Explicit": true,
+    "Genre": "Latin Urbano",
+    "Streams": "831461144"
+  },{
+    "Title": "Plan A",
+    "Artist": "Paulo Londra",
+    "Duration": 178,
+    "Explicit": false,
+    "Genre": "Rock, Pop",
+    "": "Plan A",
+    "Streams": "79041393"
+  },{
+    "Title": "Right On",
+    "Artist": "Lil Baby",
+    "Duration": 214,
+    "Explicit": true,
+    "Genre": "Hip-Hop, Rap",
+    "Streams": "10605210"
+  },{
+    "Title": "Shivers",
+    "Artist": "Ed Sheeran",
+    "Duration": "207",
+    "Explicit": "false",
+    "Genre": "Alternative Indie, Pop",
+    "Streams": "696156823"
+  },{
+    "Title": "Starlight",
+    "Artist": "Dave ",
+    "Duration": 211,
+    "Explicit": true,
+    "Genre": "Hip-Hop, Rap",
+    "Streams": "63137332"
+  },{
+    "Title": "Stay",
+    "Artist": "The Kid LAROI, Justin Bieber",
+    "Duration": 142,
+    "Explicit": true,
+    "Genre": "Pop rock, R&B Soul, Hip-Hop, Rap, Pop",
+    "Streams": "1708337173"
+  }, {
+    "Title": "Sweetest Pie",
+    "Artist": "Megan Thee Stallion, Dua Lipa",
+    "Duration": 201,
+    "Explicit": true,
+    "Genre": "R&B Soul",
+    "Streams": "58257340"
+  }, {
+    "Title": "THATS WHAT I WANT",
+    "Artist": "Lil Nas X",
+    "Duration": 164,
+    "Explicit": true,
+    "Genre": "Pop Rock, Pop",
+    "Streams": "506972781"
+  }, {
+    "Title": "TO THE MOON",
+    "Artist": "Jnr Choi, Sam Tompkins",
+    "Duration": 152,
+    "Explicit": true,
+    "Genre": "Hip-Hop, Rap",
+    "Streams": "127290387"
+  }, {
+    "Title": "The Motto",
+    "Artist": "Ava Max, Tiesto",
+    "Duration": "164",
+    "Explicit": "false",
+    "Genre": "Dance, Pop",
+    "Streams": "256564749"
+  }, {
+    "Title": "When You're Gone",
+    "Artist": "Shawn Mendes",
+    "Duration": 172,
+    "Explicit": false,
+    "Genre": "Pop, Alternative Indie",
+    "Streams": "37493275"
+  }, {
+    "Title": "Where Are You Now",
+    "Artist": "Lost Frequencies, Calum Scott",
+    "Duration": 148,
+    "Explicit": false,
+    "Genre": "Tropical House",
+    "Streams": "433099243"
+  }, {
+    "Title": "Woman",
+    "Artist": "Doja Cat",
+    "Duration": 173,
+    "Explicit": true,
+    "Genre": "Afrobeat, Pop, R&B",
+    "Streams": "763753222"
+  }, {
+    "Title": "abcdefu",
+    "Artist": "GAYLE",
+    "Duration": 169,
+    "Explicit": true,
+    "Genre": "Pop Rock, Pop",
+    "Streams": "595090378"
+  }, {
+    "Title": "good 4 u",
+    "Artist": "Olivia Rodrigo",
+    "Duration": 178,
+    "Explicit": true,
+    "Genre": "Emo, Pop, R&B Soul, Alternative Indie, Punk",
+    "Streams": "1381829446"
+  }, {
+    "Title": "love nwaniti",
+    "Artist": "CKay",
+    "Duration": 146,
+    "Explicit": true,
+    "Genre": "Afrobeats",
+    "Streams": "441257021"
+  }, {
+    "Title": "psychofreak",
+    "Artist": "Camilla Cabello, WILLOW",
+    "Duration": 201,
+    "Explicit": false,
+    "Genre": "Pop",
+    "Streams": "12533302"
+  }, {
+    "Title": "she's all i wanna be",
+    "Artist": "Tate McRae",
+    "Duration": 207,
+    "Explicit": false,
+    "Genre": "Pop",
+    "Streams": "1186414"
+  }
+
+]
+}
